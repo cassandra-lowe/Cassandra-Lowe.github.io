@@ -15,7 +15,6 @@ Lowe, C.J., & Reichelt A.C. (2019). Can magnetic resonance imaging reveal the ne
 Lowe, C.J., & Hall, P.A. (2018) Reproducibility and sources of interindividual variability in the responsiveness to prefrontal continuous theta burst stimulation (cTBS). Neuroscience Letters, 687, 280-284. DOI: https://doi.org/10.1016/j.neulet.2018.09.039.
 
 Hall P.A., Lowe C.J. (2018). Cravings, currents and cadavers: What is the magnitude of tDCS effects on food craving outcomes? Nutritional Neuroscience, 1-4.        
-
 Lowe, C.J., Staines, W.R., Manocchio, F., Hall, P.A., Staines, W.R., Hall, P.A., Manocchio, F., Hall, P.A., (2018). The neurocognitive mechanisms underlying food cravings and snack food consumption. A combined continuous theta burst stimulation (cTBS) and EEG study. Neuroimage 177, 45–58. DOI: https://doi.org/10.1016/j.neuroimage.2018.05.013.                                 
 
 Hall, P.A., Lowe, C.J., Safati, A.B., Li, H., Klassen, E.B., Burhan, .A.M. (2018). Effects of left dlPFC modulation on social cognitive processes following food sampling. Appetite 126, 73–79. DOI: https://doi.org/10.1016/j.appet.2018.03.022                        
@@ -38,7 +37,7 @@ Lowe, C. J., Hall, P. A., Vincent, C. M., & Luu, K. (2014). The effects of acute
                                           
 Hall, P.A., Tran, B., Lowe, C.J., Vincent C., Mourtzakis, M., Roy E., Lui-Ambrose, T., Prapavessis, H., & Gidron, Y. (2015). The expression of executive control in situational context: Effects of facilitating versus restraining cues on snack food consumption. Health Psychology, 34(5), 539-546. DOI:10.1037/hea0000134                                                                          
 
-Book Chapters
+**Book Chapters**
 
 Hall, P.A., Fong, G.T., & Lowe C.J. (2018). Affective dynamics in temporal self-regulation theory: Social forces meet neurobiological processes. In D. Williams, M. Conner, & R. Rhodes, Affective determinants of health behavior. Oxford, UK: Oxford University Press.
 
