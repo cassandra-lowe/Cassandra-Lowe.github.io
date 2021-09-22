@@ -1,8 +1,9 @@
 ---
+layout: archive
 permalink: /funding/
 title: "Funding"
 excerpt: "Funding"
-author_profile: false
+author_profile: true
 
 ---
 
