@@ -1,3 +1,13 @@
+---
+permalink: /
+title: "Funding"
+excerpt: "Funding"
+author_profile: true
+redirect_from: 
+  - /funding/
+  - /funding.html
+---
+
 
 **FELLOWSHIPS AND STUDENTSHIPS**
 
