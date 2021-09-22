@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-#locale                   : "en-US"
-title                    : "Cassandra Lowe's webpage"
+locale                   : "en-US"
+title                    : "Cassandra-Lowe's webpage"
 title_separator          : "-"
 name                     : &name "Cassandra Lowe"
 description              : &description "Public Health Neuroscientist examining why we overeat"
