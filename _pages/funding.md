@@ -3,7 +3,7 @@ layout: archive
 permalink: /funding/
 title: "Funding"
 excerpt: "Funding"
-author_profile: true
+author_profile: false
 
 ---
 
