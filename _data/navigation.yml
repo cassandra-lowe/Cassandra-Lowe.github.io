@@ -4,14 +4,11 @@ main:
   - title: "Interests"
     url: /interests/
     
-  - title: "Publications"
-    url: /publications/ 
-    
-    - title: "Funding"
+  - title: "Funding"
     url: /funding/
-
-  - title: "Talks"
-    url: /talks/    
+    
+  - title: "Publications"
+    url: /publications/
         
   - title: "Lab Members"
     url: /labmembers/
