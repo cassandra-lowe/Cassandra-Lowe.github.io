@@ -1,11 +1,9 @@
 ---
-permalink: /
+permalink: /funding/
 title: "Funding"
 excerpt: "Funding"
-author_profile: true
-redirect_from: 
-  - /funding/
-  - /funding.html
+author_profile: false
+
 ---
 
 
